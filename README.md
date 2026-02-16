@@ -1,4 +1,4 @@
 Name: Ganesh Pothuraju
 Roll No: 2024BCS050
-Course: BCS
+Course: B.Tech CSE (edit by collab)
 Semester: 4
